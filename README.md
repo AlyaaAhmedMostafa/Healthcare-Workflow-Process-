@@ -1,10 +1,11 @@
-Executive Report: Healthcare Workflow Process Analysis
+* Executive Report: Healthcare Workflow Process Analysis
 
 Introduction
 
 This report presents key findings from a comprehensive analysis of healthcare workflow processes, leveraging data from the [Healthcare] database. The objective is to identify operational strengths, areas for improvement, and actionable recommendations to optimize process efficiency, standardization, and compliance.
 ________________________________________
 Key Findings
+
 1. Process Volume by Workflow Type and Department
    
  • 	The analysis shows six main workflow types in the system:
