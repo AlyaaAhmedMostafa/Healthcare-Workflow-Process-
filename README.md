@@ -1,4 +1,4 @@
-* Executive Report: Healthcare Workflow Process Analysis
+** Executive Report: Healthcare Workflow Process Analysis
 
 Introduction
 
