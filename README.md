@@ -1,4 +1,4 @@
-📌 Introduction
+*  Introduction
 
 This project analyzes healthcare workflow processes using data from the [Healthcare] database.
 It identifies:
@@ -9,7 +9,7 @@ Areas for improvement
 
 Actionable recommendations to enhance efficiency, standardization, and compliance.
 
-📊 Key Findings
+ *  Key Findings
 1️⃣ Process Volume by Workflow Type & Department
 
 Top Workflows (by process count):
@@ -34,7 +34,7 @@ Laboratory – 761
 
 Outpatient – 758
 
-💡 High-volume workflows are major drivers of bottlenecks, automation needs, and compliance performance.
+* High-volume workflows are major drivers of bottlenecks, automation needs, and compliance performance.
 
 2️⃣ Process Time Analysis
 
@@ -78,7 +78,7 @@ SOP non-compliance is widespread → risks in operational consistency & regulato
 
 Departments with overdue reviews (>1 year): Radiology, Inpatient, Surgery.
 
-💡 Recommendations
+* Recommendations
 
 Targeted Process Optimization
 Redesign high-volume, long-cycle workflows to reduce bottlenecks and improve throughput.
