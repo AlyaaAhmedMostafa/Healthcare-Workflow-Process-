@@ -10,6 +10,7 @@ Key Findings
 1. Process Volume by Workflow Type and Department
 
 •	The analysis shows six main workflow types in the system:
+
 •	Patient Admission (1,014 processes)
 •	Billing Cycle (940 processes)
 •	Medication Dispensing (792 processes)
@@ -39,6 +40,7 @@ Key Findings
 •	Overdue reviews (older than one year) are particularly notable in Radiology, Inpatient, and Surgery departments, which risk outdated or ineffective procedures.
 ________________________________________
 Recommendations
+
 •	Targeted Process Optimization:
 Focus on redesigning high-volume and high-cycle-time workflows—Diagnostic Imaging, Lab Testing, Discharge Process, Patient Admission, and Billing Cycle—to reduce bottlenecks and improve throughput.
 
